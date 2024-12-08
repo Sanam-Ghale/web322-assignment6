@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ff6347 !important; 
+}
+
+.container {
+    padding-top: 100px;
+}
+
+
+.main h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+
+.main p {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 1.5rem;
+}
+
+
+aside h2 {
+    color: #007bff;
+}
+
+
+aside p {
+    color: #555;
+}
